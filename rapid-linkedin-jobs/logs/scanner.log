@@ -1,0 +1,133 @@
+2026-10-22 22:19:03,507 [INFO] === Scan started: 1 keyword(s), location=France, 1 page(s)/keyword ===
+2026-10-22 22:19:03,530 [INFO] [1/1] Searching: Cybersecurity internship
+2026-10-22 22:19:08,262 [INFO]   Cybersecurity internship · page 1: 0 job card(s)
+2026-10-22 22:19:08,263 [INFO]   -> 0 job(s) collected for 'Cybersecurity internship'
+2026-10-22 22:19:08,308 [INFO] === Summary ===
+2026-10-22 22:19:08,308 [INFO] Requests made:      2
+2026-10-22 22:19:08,308 [INFO] Jobs seen this run: 0
+2026-10-22 22:19:08,308 [INFO] New jobs saved:     0
+2026-10-22 22:19:08,308 [INFO] Known jobs updated: 0
+2026-10-22 22:19:08,308 [INFO] Total in database:  0
+2026-10-22 22:19:08,308 [INFO] Excel report:       C:\Users\Administrator\Downloads\rapid-linkedin-jobs\rapid-linkedin-jobs\exports\jobs_2026-10-22.xlsx
+2026-10-22 22:19:08,309 [INFO] Scan finished successfully.
+2026-10-22 22:20:22,516 [INFO] === Scan started: 1 keyword(s), location=France, 1 page(s)/keyword ===
+2026-10-22 22:20:22,518 [INFO] [1/1] Searching: Cybersecurity internship
+2026-10-22 22:20:23,260 [INFO]   Cybersecurity internship · page 1: 10 job card(s)
+2026-10-22 22:20:26,165 [INFO]   Cybersecurity internship · description Stage - Test de cybersécurité ( ethical hacking ) sur produits et systèmes industriels - F/H
+2026-10-22 22:20:30,052 [INFO]   Cybersecurity internship · description Ingénieur cybersécurité - Stage - F/H
+2026-10-22 22:20:33,200 [INFO]   Cybersecurity internship · description Stage : Consultant Pentest / Audit de sécurité - H/F
+2026-10-22 22:20:33,201 [INFO]   -> 10 job(s) collected for 'Cybersecurity internship'
+2026-10-22 22:20:33,289 [INFO] === Summary ===
+2026-10-22 22:20:33,289 [INFO] Requests made:      4
+2026-10-22 22:20:33,289 [INFO] Jobs seen this run: 10
+2026-10-22 22:20:33,289 [INFO] New jobs saved:     10
+2026-10-22 22:20:33,289 [INFO] Known jobs updated: 0
+2026-10-22 22:20:33,289 [INFO] Total in database:  10
+2026-10-22 22:20:33,290 [INFO] Excel report:       C:\Users\Administrator\Downloads\rapid-linkedin-jobs\rapid-linkedin-jobs\exports\jobs_2026-10-22.xlsx
+2026-10-22 22:20:33,290 [INFO] Scan finished successfully.
+2026-10-22 22:21:32,180 [INFO] === Scan started: 1 keyword(s), location=France, 1 page(s)/keyword ===
+2026-10-22 22:21:32,189 [INFO] [1/1] Searching: Cybersecurity internship
+2026-10-22 22:21:32,991 [INFO]   Cybersecurity internship · page 1: 10 job card(s)
+2026-10-22 22:21:32,991 [INFO]   -> 10 job(s) collected for 'Cybersecurity internship'
+2026-10-22 22:21:33,053 [INFO] === Summary ===
+2026-10-22 22:21:33,053 [INFO] Requests made:      1
+2026-10-22 22:21:33,053 [INFO] Jobs seen this run: 10
+2026-10-22 22:21:33,053 [INFO] New jobs saved:     0
+2026-10-22 22:21:33,053 [INFO] Known jobs updated: 10
+2026-10-22 22:21:33,053 [INFO] Total in database:  10
+2026-10-22 22:21:33,053 [INFO] Excel report:       C:\Users\Administrator\Downloads\rapid-linkedin-jobs\rapid-linkedin-jobs\exports\jobs_2026-10-22.xlsx
+2026-10-22 22:21:33,053 [INFO] Scan finished successfully.
+2026-10-22 22:23:59,640 [INFO] === Scan started: 5 keyword(s), location=France, 3 page(s)/keyword ===
+2026-10-22 22:23:59,643 [INFO] [1/5] Searching: Stage cybersécurité
+2026-10-22 22:24:00,553 [INFO]   Stage cybersécurité · page 1: 10 job card(s)
+2026-10-22 22:24:05,317 [INFO]   Stage cybersécurité · description STAGE - Ingénieur Cybersécurité Offensive et IA Générative- F/H
+2026-10-22 22:24:11,820 [INFO]   Stage cybersécurité · description STAGE - Ingénieur Cybersécurité - Analyse de vulnérabilités des réseaux de neurones - F/H
+2026-10-22 22:24:18,146 [INFO]   Stage cybersécurité · description Stage - Cybersécurité & IA  (Sécurisation des Applications IA et Opérations) - H/F
+2026-10-22 22:24:23,370 [INFO]   Stage cybersécurité · description Stage - Ingénieur IA cybersécurité H/F
+2026-10-22 22:24:29,766 [INFO]   Stage cybersécurité · description Final Year Internship Consultant - Cybersecurity
+2026-10-22 22:24:34,265 [INFO]   Stage cybersécurité · description Stage – Analyste CERT H/F
+2026-10-22 22:24:41,719 [INFO]   Stage cybersécurité · description STAGE - Consultant Cybersécurité H/F
+2026-10-22 22:24:46,043 [INFO]   Stage cybersécurité · description Consultant Cybersécurité industrielle (ICS/OT) en stage - F/H Paris
+2026-10-22 22:24:53,128 [INFO]   Stage cybersécurité · page 2: 10 job card(s)
+2026-10-22 22:24:59,599 [INFO]   Stage cybersécurité · description Stage Ingénieur R&D - IA quantique pour la détection de cybermenaces (H/F)
+2026-10-22 22:25:03,372 [INFO]   Stage cybersécurité · description Stage – Assistant Chef de projet Cybersécurité, Gouvernance & Intelligence Artificielle Europe H/F
+2026-10-22 22:25:09,457 [INFO]   Stage cybersécurité · description [STAGE Bac+4/5] Développement Mobile & Back-End – IA & Sécurité – Paytech (H/F)
+2026-10-22 22:25:16,233 [INFO]   Stage cybersécurité · description Ingénieur SSI et cybersécurité en ingénierie nucléaire - Stage - H/F
+2026-10-22 22:25:19,750 [INFO]   Stage cybersécurité · description Stage Ingénieur(e) Réseau Sécurité - DSI - Ile de france
+2026-10-22 22:25:26,568 [INFO]   Stage cybersécurité · description Stage Logiciel : Automatisation d'autotests pour OS cybersécurisés F/H
+2026-10-22 22:25:32,251 [INFO]   Stage cybersécurité · description Stagiaire Assistance en Gouvernance Sécurité des SI dans un contexte international - F/H
+2026-10-22 22:25:37,170 [INFO]   Stage cybersécurité · description Ingénieur SSI et cybersécurité en ingénierie nucléaire - Stage - H/F
+2026-10-22 22:25:42,038 [INFO]   Stage cybersécurité · description DevSecOps - Stage - (H/F)
+2026-10-22 22:25:46,022 [INFO]   Stage cybersécurité · description Stage - Comment l’IA peut-elle piloter et accélérer la transformation de la résilience des organisations ?
+2026-10-22 22:25:51,698 [INFO]   Stage cybersécurité · page 3: 10 job card(s)
+2026-10-22 22:25:57,686 [INFO]   Stage cybersécurité · description Stage - Chargé de mission contrôle des accès site H/F
+2026-10-22 22:26:02,974 [INFO]   Stage cybersécurité · description Stage - Ingénieur d'affaires stagiaire (Cybersécurité)
+2026-10-22 22:26:07,922 [INFO]   Stage cybersécurité · description Alternant(e) Administrateur Systèmes, Réseaux & Cybersécurité.
+2026-10-22 22:26:11,889 [INFO]   Stage cybersécurité · description STAGE - OBSERVABILITÉ DES SYSTÈMES CRITIQUES 24/7 - H/F
+2026-10-22 22:26:17,671 [INFO]   Stage cybersécurité · description CPU Software Intern for Verification
+2026-10-22 22:26:24,030 [INFO]   Stage cybersécurité · description STAGE - Ingénieur / Ingénieure d'étude Sécurité F/H
+2026-10-22 22:26:29,866 [INFO]   Stage cybersécurité · description Stage : Scénarisation et codage d'accidents impliquants des vhl hors marque Tesla en mode délégué nive
+2026-10-22 22:26:34,634 [INFO]   Stage cybersécurité · description STAGE - Assistant Chargé de Gouvernance (H/F)
+2026-10-22 22:26:40,289 [INFO]   Stage cybersécurité · description Stage – IA Agentique pour détection et investigation d’anomalies Industrielles – F/H
+2026-10-22 22:26:46,688 [INFO]   Stage cybersécurité · description Stage 2027 - Amélioration méthode Safety appliquée aux études COTS sur les Commandes de Vol (All Gender)
+2026-10-22 22:26:46,688 [INFO]   -> 30 job(s) collected for 'Stage cybersécurité'
+2026-10-22 22:26:46,688 [INFO] [2/5] Searching: Cybersecurity internship
+2026-10-22 22:26:52,807 [INFO]   Cybersecurity internship · page 1: 10 job card(s)
+2026-10-22 22:26:57,496 [INFO]   Cybersecurity internship · description Final Year Internship Consultant - Cybersecurity
+2026-10-22 22:27:01,678 [INFO]   Cybersecurity internship · description Stage - Cybersécurité & IA  (Sécurisation des Applications IA et Opérations) - H/F
+2026-10-22 22:27:06,617 [INFO]   Cybersecurity internship · description STAGE - Offensive Security Junior – H/F
+2026-10-22 22:27:11,704 [INFO]   Cybersecurity internship · description STAGE - Ingénieur Cybersécurité – IA Générative & SOC - F/H
+2026-10-22 22:27:18,332 [INFO]   Cybersecurity internship · description Stage – Analyste CERT H/F
+2026-10-22 22:27:23,387 [INFO]   Cybersecurity internship · description STAGE - Consultant Cybersécurité H/F
+2026-10-22 22:27:29,377 [INFO]   Cybersecurity internship · description Stage - Ingénieur IA cybersécurité H/F
+2026-10-22 22:27:33,069 [INFO]   Cybersecurity internship · description Stage - Ingénieur en conception d'un cyber lab vulnérabilités
+2026-10-22 22:27:39,267 [INFO]   Cybersecurity internship · page 2: 10 job card(s)
+2026-10-22 22:27:44,882 [INFO]   Cybersecurity internship · description Stage Architecture et Cybersécurité Bac+4/5 (H/F)
+2026-10-22 22:27:48,547 [INFO]   Cybersecurity internship · description Stage Ingénieur(e) Réseau Sécurité - DSI - Ile de france
+2026-10-22 22:27:53,883 [INFO]   Cybersecurity internship · description Stagiaire Assistance en Gouvernance Sécurité des SI dans un contexte international - F/H
+2026-10-22 22:27:57,481 [INFO]   Cybersecurity internship · description Stage Ingénieur R&D - IA quantique pour la détection de cybermenaces (H/F)
+2026-10-22 22:28:03,253 [INFO]   Cybersecurity internship · description [STAGE Bac+4/5] Développement Mobile & Back-End – IA & Sécurité – Paytech (H/F)
+2026-10-22 22:28:09,726 [INFO]   Cybersecurity internship · description STAGE – Support IT/OT, Infrastructure et Cybersécurité – Février 2027 - (H/F)
+2026-10-22 22:28:14,733 [INFO]   Cybersecurity internship · description Stage Logiciel : Automatisation d'autotests pour OS cybersécurisés F/H
+2026-10-22 22:28:21,049 [INFO]   Cybersecurity internship · description DevSecOps - Stage - (H/F)
+2026-10-22 22:28:28,006 [INFO]   Cybersecurity internship · description STAGE – Ingénieur DevSecOps pour les systèmes de navigation - H/F
+2026-10-22 22:28:32,117 [INFO]   Cybersecurity internship · description Ingénieur SSI et cybersécurité en ingénierie nucléaire - Stage - H/F
+2026-10-22 22:28:39,088 [INFO]   Cybersecurity internship · page 3: 10 job card(s)
+2026-10-22 22:28:45,739 [INFO]   Cybersecurity internship · description Stage - 6 mois - Ingénieur de Production DevSecOps F/H
+2026-10-22 22:28:49,440 [INFO]   Cybersecurity internship · description STAGE - Assistant Chargé de Gouvernance (H/F)
+2026-10-22 22:28:55,287 [INFO]   Cybersecurity internship · description CPU Software Intern for Verification
+2026-10-22 22:29:02,280 [INFO]   Cybersecurity internship · description Stage Logiciel : Conception d'une IHM d'identification F/H
+2026-10-22 22:29:08,137 [INFO]   Cybersecurity internship · description IT Support Technician Intern
+2026-10-22 22:29:14,862 [INFO]   Cybersecurity internship · description Alternance  Ingénieur Infrastructures Systèmes Réseaux et Cybersécurité H/F
+2026-10-22 22:29:20,312 [INFO]   Cybersecurity internship · description STAGE : Développeur informatique
+2026-10-22 22:29:25,862 [INFO]   Cybersecurity internship · description Stage - Modernisation d'une Infrastructure Web et Cloud - H/F
+2026-10-22 22:29:29,580 [INFO]   Cybersecurity internship · description Stage 2027 - Amélioration méthode Safety appliquée aux études COTS sur les Commandes de Vol (All Gender)
+2026-10-22 22:29:32,921 [INFO]   Cybersecurity internship · description STAGE - OBSERVABILITÉ DES SYSTÈMES CRITIQUES 24/7 - H/F
+2026-10-22 22:29:32,921 [INFO]   -> 30 job(s) collected for 'Cybersecurity internship'
+2026-10-22 22:29:32,921 [INFO] [3/5] Searching: Alternance cybersécurité
+2026-10-22 22:29:40,487 [INFO]   Alternance cybersécurité · page 1: 10 job card(s)
+2026-10-22 22:29:47,616 [INFO]   Alternance cybersécurité · description Security Monitoring Analyst APPRENTICESHIP
+2026-10-22 22:29:51,264 [INFO]   Alternance cybersécurité · description Apprenti informatique et cybersécurité H/F
+2026-10-22 22:29:56,145 [INFO]   Alternance cybersécurité · description Alternant(e) Administrateur Systèmes, Réseaux & Cybersécurité.
+2026-10-22 22:30:03,390 [INFO]   Alternance cybersécurité · description Alternance  Ingénieur Infrastructures Systèmes Réseaux et Cybersécurité H/F
+2026-10-22 22:30:09,913 [INFO]   Alternance cybersécurité · page 2: 10 job card(s)
+2026-10-22 22:30:14,960 [INFO]   Alternance cybersécurité · page 3: 9 job card(s)
+2026-10-22 22:30:14,960 [INFO]   -> 29 job(s) collected for 'Alternance cybersécurité'
+2026-10-22 22:30:14,960 [INFO] [4/5] Searching: SOC Analyst internship
+2026-10-22 22:30:20,788 [INFO]   SOC Analyst internship · page 1: 10 job card(s)
+2026-10-22 22:30:24,365 [INFO]   SOC Analyst internship · page 2: 10 job card(s)
+2026-10-22 22:30:30,268 [INFO]   SOC Analyst internship · page 3: 10 job card(s)
+2026-10-22 22:30:30,268 [INFO]   -> 30 job(s) collected for 'SOC Analyst internship'
+2026-10-22 22:30:30,268 [INFO] [5/5] Searching: Security Engineer internship
+2026-10-22 22:30:34,433 [INFO]   Security Engineer internship · page 1: 10 job card(s)
+2026-10-22 22:30:39,497 [INFO]   Security Engineer internship · page 2: 10 job card(s)
+2026-10-22 22:30:43,339 [INFO]   Security Engineer internship · page 3: 10 job card(s)
+2026-10-22 22:30:43,339 [INFO]   -> 30 job(s) collected for 'Security Engineer internship'
+2026-10-22 22:30:43,474 [INFO] === Summary ===
+2026-10-22 22:30:43,474 [INFO] Requests made:      75
+2026-10-22 22:30:43,474 [INFO] Jobs seen this run: 149
+2026-10-22 22:30:43,474 [INFO] New jobs saved:     84
+2026-10-22 22:30:43,474 [INFO] Known jobs updated: 65
+2026-10-22 22:30:43,474 [INFO] Total in database:  94
+2026-10-22 22:30:43,474 [INFO] Excel report:       C:\Users\Administrator\Downloads\rapid-linkedin-jobs\rapid-linkedin-jobs\exports\jobs_2026-10-22.xlsx
+2026-10-22 22:30:43,474 [INFO] Scan finished successfully.

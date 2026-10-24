@@ -1,0 +1,5 @@
+streamlit>=1.38
+requests>=2.32
+beautifulsoup4>=4.12
+pandas>=2.2
+openpyxl>=3.1

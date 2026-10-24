@@ -1,0 +1,18 @@
+{
+  "keywords": [
+    "Stage cybersécurité",
+    "Cybersecurity internship",
+    "Alternance cybersécurité",
+    "SOC Analyst internship",
+    "Security Engineer internship"
+  ],
+  "location": "France",
+  "date_filter": "Past week",
+  "employment_types": ["Internship", "Apprenticeship"],
+  "remote_types": [],
+  "pages_per_keyword": 3,
+  "fetch_descriptions": true,
+  "max_descriptions_per_run": 60,
+  "min_delay": 3,
+  "max_delay": 7
+}
