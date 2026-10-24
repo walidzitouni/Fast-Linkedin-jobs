@@ -4,6 +4,8 @@ A local tool that scans LinkedIn's **public, no-login** job pages for your keywo
 
 Built for internship hunting: set your keywords once, let the daily scan collect every matching public offer, and open the Excel file instead of scrolling LinkedIn for hours.
 
+![Overview](./Screenshot%202026-10-24%20125715.png)
+
 ## What it does
 - Multiple keywords, location, posting-date, employment-type and work-arrangement filters
 - Job **cards parsed directly from the search listing** (one request per results page, not one per job)
@@ -39,6 +41,8 @@ python scanner.py
 Reports: `exports\jobs_latest.xlsx` (always up to date) + a dated snapshot per run · Log: `logs\scanner.log`
 
 The dashboard also refreshes `exports\jobs_latest.xlsx` after every search, so the file always mirrors the database no matter how you scan. Keep that file closed while a scan runs — Excel locks open files.
+
+![Exce_result](./Screenshot%202026-10-24%20125740.png)
 
 **Or use the dashboard:**
 ```powershell
